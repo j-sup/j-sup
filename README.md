@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm Jay 👋</h1>
 
-<p align="center">Currently building <a href="https://www.ai-builder.live">full-stack Web applications</a></p>
+<p align="center">Currently building full-stack Web applications
 
 ## I work with this tech
 
