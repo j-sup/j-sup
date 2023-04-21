@@ -11,7 +11,3 @@
   </a>
 </p>
 
-## My stats
-<p align="center"><a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-sup&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
-</a></p>
