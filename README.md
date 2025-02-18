@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Jay 👋</h1>
+<h1 align="center">Hi there, I'm Silas 👋</h1>
 
 <p align="center">Currently building full-stack Web applications
 
